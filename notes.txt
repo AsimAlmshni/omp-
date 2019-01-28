@@ -1,0 +1,17 @@
+the speed up is : 
+	with 10 threads
+	serial time / parallel time
+	.027 / .020
+
+when ive run ten threads i got this
+when run 20 thread i got this
+	the run time changed to .030
+	speed up is .027 / .030
+when rum 30 thread i got this 
+	the run time is .020
+	speed up is .027 / .020
+when run 50 thread i got 
+	the run time is .030
+	speed up is   .027 / .030
+
+
